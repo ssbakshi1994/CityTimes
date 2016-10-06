@@ -1,4 +1,4 @@
-This is a quick program that displays the time in 30 cities across the world.
+This is a quick C++ program that displays the time in 30 cities across the world.
 
 To get the compiler:
 			sudo apt-get update
