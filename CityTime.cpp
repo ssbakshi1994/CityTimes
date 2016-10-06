@@ -124,7 +124,7 @@ void createcontinents()
 // this function displays the time of all of the cities, continent by continent.
 // This function calls to displaytime function to actually display the times
 // inputs: the global var, Continents[7], the array of continents
-// outputs: none
+// outputs: The time in all 30 cities
 void DisplayAllTimes()
 {
 	cout << endl;
